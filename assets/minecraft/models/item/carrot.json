@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/carrot"
+  },
+  "overrides": [{
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/halloween/caramel_apple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/halloween/ender_lollipop"
+    }, {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/halloween/crispy_creeper"
+    }, {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/halloween/gooey_cobweb"
+    }, {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/halloween/skeleton_bone_candy"
+    }, {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/halloween/witch_cookie"
+    }, {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/halloween/pumpkin_punch"
+    }, {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/halloween/zombie_gummie"
+    }
+  ]
+}
