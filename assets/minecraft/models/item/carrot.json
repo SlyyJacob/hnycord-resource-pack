@@ -44,6 +44,16 @@
         "custom_model_data": 1008
       },
       "model": "item/halloween/zombie_gummie"
+    }, {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "item/halloween/maze_monster_candy1"
+    }, {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/halloween/maze_monster_candy2"
     }
   ]
 }
