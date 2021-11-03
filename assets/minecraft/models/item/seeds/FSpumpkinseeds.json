@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/seeds/FSpumpkinseeds"
+    "layer0": "minecraft:item/seeds/fspumpkinseeds"
   }
 }
