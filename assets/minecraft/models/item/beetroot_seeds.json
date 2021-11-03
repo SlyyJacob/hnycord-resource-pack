@@ -1,0 +1,115 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/beetroot_seeds"
+  },
+  "overrides": [{
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/seeds/FSbeetrootseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/seeds/alliumseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/seeds/azurebluetseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/seeds/blueorchidseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/seeds/cornflowerseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/seeds/dandelionseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/seeds/lilacseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/seeds/lilyofthevalleyseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "item/seeds/orangetulipseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/seeds/oxeyedaisyseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "item/seeds/peonyseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "item/seeds/pinktulipseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "item/seeds/poppyseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "item/seeds/redtulipseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "item/seeds/roseseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "item/seeds/soulseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "item/seeds/sunflowerseeds"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "item/seeds/whitetulipseeds"
+    }
+  ]
+}
