@@ -7,7 +7,7 @@
     {
         "predicate": {
         },
-        "model": "item/tools/SmallFishNet"
+        "model": "item/tools/smallfishnet"
     }
   ]
 }

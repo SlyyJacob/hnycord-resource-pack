@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 1001
       },
-      "model": "item/seeds/FScarrotseeds"
+      "model": "item/seeds/fscarrotseeds"
     },
     {
       "predicate": {
         "custom_model_data": 1002
       },
-      "model": "item/seeds/FSpotatoseeds"
+      "model": "item/seeds/fspotatoseeds"
     },
     {
       "predicate": {
         "custom_model_data": 1003
       },
-      "model": "item/seeds/FSwheatseeds"
+      "model": "item/seeds/fswheatseeds"
     }
   ]
 }
