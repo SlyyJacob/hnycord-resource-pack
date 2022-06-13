@@ -1,0 +1,18 @@
+{
+    "coins_get": {
+      "sounds": [
+        {
+          "name": "hnycord:coins_get",
+          "volume": 0.5
+        }
+      ]
+    },
+    "level_up": {
+      "sounds": [
+        {
+          "name": "hnycord:level_up",
+          "volume": 0.5
+        }
+      ]
+    }
+}

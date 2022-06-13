@@ -1,0 +1,63 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/feather"
+    },
+    "display": {
+      "head": {
+        "rotation": [0, 0, 45],
+        "translation": [-1, 13, 7],
+        "scale": [1, 1, 1]
+      }
+    },
+    "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "item/halloween/dwarf_helm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "item/halloween/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "item/halloween/scarecrow_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "item/halloween/vampire_fangs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "item/halloween/arrow_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "item/halloween/black_cat_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "item/halloween/devil_horns"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "item/halloween/frankenstien_bolts"
+    }
+  ]
+}

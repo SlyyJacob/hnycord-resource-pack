@@ -3,10 +3,54 @@
   "textures": {
     "layer0": "minecraft:item/stick"
   },
-  "overrides": [{
+  "overrides": [
+  {
     "predicate": {
       "custom_model_data": 1001
     },
     "model": "item/halloween/token"
-  }]
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1002
+    },
+    "model": "hnycord:item/coins/gold_coins"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1003
+    },
+    "model": "hnycord:item/coins/silver_coins"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1004
+    },
+    "model": "hnycord:item/coins/copper_coins"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1005
+    },
+    "model": "hnycord:item/skillcheck/blank"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1006
+    },
+    "model": "hnycord:item/skillcheck/green"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1007
+    },
+    "model": "hnycord:item/skillcheck/red"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1008
+    },
+    "model": "hnycord:item/magic/bed_teleport_tablet"
+  }
+]
 }

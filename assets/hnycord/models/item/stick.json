@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+  {
+    "predicate": {
+      "custom_model_data": 1001
+    },
+    "model": "item/halloween/token"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 1002
+    },
+    "model": "hnycord:item/coins"
+  }
+]
+}

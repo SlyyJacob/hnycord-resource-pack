@@ -1,0 +1,136 @@
+{
+    "providers": [{
+        "file": "hnycord:font/common.png",
+        "chars": ["\uE000"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/currency.png",
+        "chars": ["\uE001"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/armor.png",
+        "chars": ["\uE002"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/artifact.png",
+        "chars": ["\uE003"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/block.png",
+        "chars": ["\uE004"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/cosmetic.png",
+        "chars": ["\uE005"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/epic.png",
+        "chars": ["\uE006"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/exotic.png",
+        "chars": ["\uE007"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/food.png",
+        "chars": ["\uE008"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/furniture.png",
+        "chars": ["\uE009"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/hat.png",
+        "chars": ["\uE010"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/item.png",
+        "chars": ["\uE011"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/legendary.png",
+        "chars": ["\uE012"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/mythic.png",
+        "chars": ["\uE013"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/other.png",
+        "chars": ["\uE014"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/rare.png",
+        "chars": ["\uE015"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/tool.png",
+        "chars": ["\uE016"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/uncommon.png",
+        "chars": ["\uE017"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    },
+    {
+        "file": "hnycord:font/weapon.png",
+        "chars": ["\uE018"],
+        "height": 7,
+        "ascent": 7,
+        "type": "bitmap"
+    }
+]
+}
